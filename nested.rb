@@ -19,9 +19,6 @@ def hopper
         }
      }
 answer = programmer_hash[:grace_hopper]
-
-answer
-
 end
 
 def alan_kay_is_known_for
@@ -62,7 +59,7 @@ def dennis_ritchies_language
         }
      }
      
-  answer = programmer_hash[:dennis_ritchie][:languages]
+answer = programmer_hash[:dennis_ritchie][:languages]
 end
 
 def adding_matz
