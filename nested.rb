@@ -18,7 +18,7 @@ def hopper
           :languages => ["C"]
         }
      }
-answer = :grace_hopper[0]
+answer = :grace_hopper[]
 
 end
 
