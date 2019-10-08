@@ -85,7 +85,6 @@ def adding_matz
         }
      }
 
-  programmer_hash[:grace_hopper]
 end
 
 def changing_alan
